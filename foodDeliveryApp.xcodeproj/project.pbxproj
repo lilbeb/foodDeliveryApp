@@ -98,12 +98,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		323903222B6D77C800AB0E6D /* New Group */ = {
+		323903222B6D77C800AB0E6D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				323903232B6D784300AB0E6D /* Roboto */,
 			);
-			path = "New Group";
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		323903232B6D784300AB0E6D /* Roboto */ = {
@@ -148,7 +148,7 @@
 		32F666E22B6CCB93004706BD /* foodDeliveryApp */ = {
 			isa = PBXGroup;
 			children = (
-				323903222B6D77C800AB0E6D /* New Group */,
+				323903222B6D77C800AB0E6D /* Resources */,
 				32F666E32B6CCB93004706BD /* AppDelegate.swift */,
 				32F666E52B6CCB93004706BD /* SceneDelegate.swift */,
 				32F666E72B6CCB93004706BD /* ViewController.swift */,
